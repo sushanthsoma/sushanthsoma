@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @sushanthsoma
-- 🌱 I’m currently pursuing Computer Science degree 
+- 👋 Hi, I’m Sushant Soma
+- 🌱 Currently Computer Science  
